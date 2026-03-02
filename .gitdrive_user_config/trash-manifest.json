@@ -8,6 +8,15 @@
       "name": "c",
       "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
       "size": 0
+    },
+    {
+      "originalPath": "vibeweb-ai-agent.zip",
+      "trashPath": ".gitdrive_trash/1772430656821_vibeweb-ai-agent.zip",
+      "deletedAt": "2026-03-02T05:50:57.874Z",
+      "type": "file",
+      "name": "vibeweb-ai-agent.zip",
+      "sha": "ca95fa87cc73db40afea706e91fd77f22d53d66a",
+      "size": 33881
     }
   ]
 }
