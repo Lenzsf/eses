@@ -4,7 +4,7 @@
     "repo": "eses"
   },
   "displayName": "My Drive",
-  "viewMode": "list",
+  "viewMode": "grid",
   "sortBy": "name",
   "sortOrder": "asc",
   "showHiddenFiles": true,
